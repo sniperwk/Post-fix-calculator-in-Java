@@ -7,7 +7,9 @@ Usage
 2
 3
 *
+
 +
+
 =
 
 The result of 1 2 3 * + = is 7
